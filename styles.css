@@ -157,6 +157,7 @@ hr {
   display: flex;
   align-items: stretch;
   flex: 1;
+  margin-bottom: 25px;
 }
 
 .nutrition_text {
