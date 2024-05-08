@@ -169,12 +169,15 @@ hr {
 }
 
 .left_info {
-  margin-left: 20px;
   color: var(--wenge_brown);
 }
 
 .right_info {
   color: var(--dark_raspberry);
+}
+
+.m_left {
+  margin-left: 30px;
 }
 
 @media (min-width: 1000px) {
@@ -213,9 +216,5 @@ hr {
 
   .left_info {
     margin: 0;
-  }
-
-  .m_left {
-    margin-left: 30px;
   }
 }
